@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heliosasdesigner
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine learing, Tensorflow, Django and Python
+- 🌱 I’m currently learning Machine learing, PyTorch and Python
 - 📫 How to reach me by email: heliogramlaboratory@gmail.com
 
 <!---
