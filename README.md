@@ -24,7 +24,7 @@ Figma | Git | GitHub | Electron
 
 ## 📫 Reach Me
 📧 **Email:** Helloiamheliosso@gmail.com  
-🔗 [LinkedIn](#) | [Portfolio](#) *(add links if available)*
+
 
 ---
 
